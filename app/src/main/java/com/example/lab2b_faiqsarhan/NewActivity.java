@@ -11,7 +11,7 @@ import android.widget.TextView;
 import android.widget.ImageView;
 
 public class NewActivity extends AppCompatActivity {
-
+//dasd
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
